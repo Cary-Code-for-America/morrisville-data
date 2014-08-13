@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>UDO_Durham_Parcels_Mville</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">158028</SimpleData>
+		<SimpleData name="PIN">0757-03-00-1983</SimpleData>
+		<SimpleData name="FRONT_DIM">120.54</SimpleData>
+		<SimpleData name="POLY_ACRE">1.16100000</SimpleData>
+		<SimpleData name="SUM_ACRE">1.16100000</SimpleData>
+		<SimpleData name="OLD_ID">586 -01-011 -</SimpleData>
+		<SimpleData name="ACCT_">8403735</SimpleData>
+		<SimpleData name="OWNAM1">JONES RICHARD R JR</SimpleData>
+		<SimpleData name="OWNAM2">HESTER LINDA J</SimpleData>
+		<SimpleData name="OWADR1">3600 W MILL FOREST CT</SimpleData>
+		<SimpleData name="OWCITY">RALEIGH</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27606</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">314</SimpleData>
+		<SimpleData name="LANDUSE_DE">VAC RES/ RURAL &lt; 10 ACRES</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">72562</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">72562.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">006064</SimpleData>
+		<SimpleData name="DEED_PAGE">000483</SimpleData>
+		<SimpleData name="PLAT_BOOK">00135</SimpleData>
+		<SimpleData name="PLAT_PAGE">00064</SimpleData>
+		<SimpleData name="DATE_SOLD">20080925</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">JONES RICHARD R JR HESTER LINDA J</SimpleData>
+		<SimpleData name="OWNER_ADDR">3600 W MILL FOREST CT</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">711 SLATER RD</SimpleData>
+		<SimpleData name="area">50628.21205000000</SimpleData>
+		<SimpleData name="len">1085.53566747000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.830532055257422,35.86746587075568 -78.830937070442502,35.867482064566595 -78.830762873435077,35.868661589962088 -78.830365998832832,35.868591314120351 -78.830532055257422,35.86746587075568</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">157992</SimpleData>
+		<SimpleData name="PIN">0747-04-90-5956</SimpleData>
+		<SimpleData name="FRONT_DIM">0</SimpleData>
+		<SimpleData name="POLY_ACRE">8.79600000</SimpleData>
+		<SimpleData name="SUM_ACRE">8.79600000</SimpleData>
+		<SimpleData name="OLD_ID">585 -03-022A-</SimpleData>
+		<SimpleData name="ACCT_">5762720</SimpleData>
+		<SimpleData name="OWNAM1">RANSDELL RUBY D</SimpleData>
+		<SimpleData name="OWADR1">303 BROAD ST</SimpleData>
+		<SimpleData name="OWCITY">FUQUAY-VARINA</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27526</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">99020</SimpleData>
+		<SimpleData name="LANDUSE_DE">PRESENT-USE/FORESTRY</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">494775</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">494775.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">393</SimpleData>
+		<SimpleData name="DEED_PAGE">657</SimpleData>
+		<SimpleData name="PLAT_BOOK">000000</SimpleData>
+		<SimpleData name="PLAT_PAGE">000000</SimpleData>
+		<SimpleData name="DATE_SOLD">19970101</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">RANSDELL RUBY D</SimpleData>
+		<SimpleData name="OWNER_ADDR">303 BROAD ST</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">741 SLATER RD</SimpleData>
+		<SimpleData name="area">383149.30910000001</SimpleData>
+		<SimpleData name="len">2583.89367324000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.831436816422922,35.868780818633809 -78.831466044292313,35.867503043725833 -78.834222540157768,35.867621023771513 -78.834231881736457,35.867772765548764 -78.834500675188593,35.86777409212543 -78.833290194443279,35.869109049160798 -78.833191674724887,35.86909160696289 -78.831436816422922,35.868780818633809</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">158029</SimpleData>
+		<SimpleData name="PIN">0757-03-00-3878</SimpleData>
+		<SimpleData name="FRONT_DIM">169.00</SimpleData>
+		<SimpleData name="POLY_ACRE">1.52800000</SimpleData>
+		<SimpleData name="SUM_ACRE">1.52800000</SimpleData>
+		<SimpleData name="OLD_ID">586 -01-012 -</SimpleData>
+		<SimpleData name="ACCT_">4459680</SimpleData>
+		<SimpleData name="OWNAM1">MARSH JESSE</SimpleData>
+		<SimpleData name="OWNAM2">MARSH RUBY</SimpleData>
+		<SimpleData name="OWADR1">3024 SLATER RD</SimpleData>
+		<SimpleData name="OWCITY">MORRISVILLE</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27560</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">140</SimpleData>
+		<SimpleData name="LANDUSE_DE">RES/ RURAL RES W/ ACREAGE</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">95500</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">95500.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">974</SimpleData>
+		<SimpleData name="DEED_PAGE">570</SimpleData>
+		<SimpleData name="PLAT_BOOK">089</SimpleData>
+		<SimpleData name="PLAT_PAGE">074</SimpleData>
+		<SimpleData name="DATE_SOLD">19970101</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">MARSH JESSE MARSH RUBY</SimpleData>
+		<SimpleData name="OWNER_ADDR">3024 SLATER RD</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">701 SLATER RD</SimpleData>
+		<SimpleData name="area">66541.50130000000</SimpleData>
+		<SimpleData name="len">1134.01853741000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.829613224831746,35.868467436496992 -78.829765459013188,35.867435490260405 -78.829779228446782,35.867436003979527 -78.830329564399449,35.8674578695218 -78.830160971054369,35.868600671524767 -78.829613224831746,35.868467436496992</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">158018</SimpleData>
+		<SimpleData name="PIN">0747-04-91-9582</SimpleData>
+		<SimpleData name="FRONT_DIM">0</SimpleData>
+		<SimpleData name="POLY_ACRE">0.16912333</SimpleData>
+		<SimpleData name="SUM_ACRE">0.16400000</SimpleData>
+		<SimpleData name="OLD_ID">586 -01-005 -</SimpleData>
+		<SimpleData name="ACCT_">0038875</SimpleData>
+		<SimpleData name="OWNAM1">GLAUBIGER GEORGE A</SimpleData>
+		<SimpleData name="OWADR1">2447 NEW BERN AVE</SimpleData>
+		<SimpleData name="OWCITY">RALEIGH</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27610</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">314</SimpleData>
+		<SimpleData name="LANDUSE_DE">VAC RES/ RURAL &lt; 10 ACRES</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">1025</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">1025.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">01911</SimpleData>
+		<SimpleData name="DEED_PAGE">00146</SimpleData>
+		<SimpleData name="PLAT_BOOK">00134</SimpleData>
+		<SimpleData name="PLAT_PAGE">00186</SimpleData>
+		<SimpleData name="DATE_SOLD">19970101</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">GLAUBIGER GEORGE A</SimpleData>
+		<SimpleData name="OWNER_ADDR">2447 NEW BERN AVE</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">728 SLATER RD</SimpleData>
+		<SimpleData name="area">7367.01250000000</SimpleData>
+		<SimpleData name="len">354.37240636800</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.831398901753559,35.869562680225016 -78.831487943162784,35.869544946350395 -78.831484442716047,35.869815377885438 -78.831395366911906,35.86983327654189 -78.831215155556094,35.869869427947577 -78.831251174837462,35.869592008537637 -78.831398901753559,35.869562680225016</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">158027</SimpleData>
+		<SimpleData name="PIN">0757-03-00-0966</SimpleData>
+		<SimpleData name="FRONT_DIM">210.00</SimpleData>
+		<SimpleData name="POLY_ACRE">1.84800000</SimpleData>
+		<SimpleData name="SUM_ACRE">1.84800000</SimpleData>
+		<SimpleData name="OLD_ID">586 -01-010 -</SimpleData>
+		<SimpleData name="ACCT_">8279122</SimpleData>
+		<SimpleData name="OWNAM1">KADARI VENU R</SimpleData>
+		<SimpleData name="OWNAM2">KADARI SRIDEVI</SimpleData>
+		<SimpleData name="OWADR1">318 MONTELENA PL</SimpleData>
+		<SimpleData name="OWCITY">CARY</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27513</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">314</SimpleData>
+		<SimpleData name="LANDUSE_DE">VAC RES/ RURAL &lt; 10 ACRES</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">115500</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">115500.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">004819</SimpleData>
+		<SimpleData name="DEED_PAGE">000294</SimpleData>
+		<SimpleData name="PLAT_BOOK">96</SimpleData>
+		<SimpleData name="PLAT_PAGE">16</SimpleData>
+		<SimpleData name="DATE_SOLD">20050603</SimpleData>
+		<SimpleData name="SALE_PRICE">100000</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">KADARI VENU R KADARI SRIDEVI</SimpleData>
+		<SimpleData name="OWNER_ADDR">318 MONTELENA PL</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">723 SALTER RD</SimpleData>
+		<SimpleData name="area">80468.30770000000</SimpleData>
+		<SimpleData name="len">1258.89188538000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.830762873435077,35.868661589962088 -78.830937070442502,35.867482064566595 -78.831243743021034,35.867494192466005 -78.831466044292313,35.867503043725833 -78.831436816422922,35.868780818633809 -78.831241128124063,35.868746207749432 -78.830762873435077,35.868661589962088</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">158031</SimpleData>
+		<SimpleData name="PIN">0747-04-90-0635</SimpleData>
+		<SimpleData name="FRONT_DIM">171.00</SimpleData>
+		<SimpleData name="POLY_ACRE">1.03500000</SimpleData>
+		<SimpleData name="SUM_ACRE">1.03500000</SimpleData>
+		<SimpleData name="OLD_ID">585 -03-020A-</SimpleData>
+		<SimpleData name="ACCT_">8193905</SimpleData>
+		<SimpleData name="OWNAM1">DUKE REALTY LIMITED</SimpleData>
+		<SimpleData name="OWNAM2">PARTNERSHIP</SimpleData>
+		<SimpleData name="OWADR1">1800 PERIMETER PARK DR</SimpleData>
+		<SimpleData name="OWCITY">MORRISVILLE</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27560</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">350</SimpleData>
+		<SimpleData name="LANDUSE_DE">VACANT INDUSTRIAL</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">64687</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">64687.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">003719</SimpleData>
+		<SimpleData name="DEED_PAGE">000249</SimpleData>
+		<SimpleData name="PLAT_BOOK">000150</SimpleData>
+		<SimpleData name="PLAT_PAGE">000025</SimpleData>
+		<SimpleData name="DATE_SOLD">20030106</SimpleData>
+		<SimpleData name="SALE_PRICE">54500</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">DUKE REALTY LIMITED PARTNERSHIP</SimpleData>
+		<SimpleData name="OWNER_ADDR">1800 PERIMETER PARK DR</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">771 SLATER RD</SimpleData>
+		<SimpleData name="area">45098.39490000000</SimpleData>
+		<SimpleData name="len">911.49109056900</SimpleData>
+		<SimpleData name="FUTURE_LAN">OFFICE &amp; INSTITUTIONAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.834222540157768,35.867621023771513 -78.834186937046155,35.867043152060113 -78.834215624610152,35.867043575671119 -78.834485793856445,35.867047623904952 -78.835054853754102,35.867056142036382 -78.834657187357848,35.867589279000057 -78.834619023640855,35.867634336643661 -78.834500675188593,35.86777409212543 -78.834231881736457,35.867772765548764 -78.834222540157768,35.867621023771513</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">158020</SimpleData>
+		<SimpleData name="PIN">0757-03-01-0768</SimpleData>
+		<SimpleData name="POLY_ACRE">4.84000000</SimpleData>
+		<SimpleData name="SUM_ACRE">4.83900000</SimpleData>
+		<SimpleData name="OLD_ID">586 -01-006A-</SimpleData>
+		<SimpleData name="ACCT_">8079903</SimpleData>
+		<SimpleData name="OWNAM1">RICHARD R JONES FAMILY LLC THE</SimpleData>
+		<SimpleData name="OWADR1">3600 W MILL FOREST CT</SimpleData>
+		<SimpleData name="OWCITY">RALEIGH</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27606</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">350</SimpleData>
+		<SimpleData name="LANDUSE_DE">VACANT INDUSTRIAL</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">544387</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">544387.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">002631</SimpleData>
+		<SimpleData name="DEED_PAGE">000410</SimpleData>
+		<SimpleData name="PLAT_BOOK">000144</SimpleData>
+		<SimpleData name="PLAT_PAGE">000152</SimpleData>
+		<SimpleData name="DATE_SOLD">19991020</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">RICHARD R JONES FAMILY LLC THE</SimpleData>
+		<SimpleData name="OWNER_ADDR">3600 W MILL FOREST CT</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">720 SLATER RD</SimpleData>
+		<SimpleData name="area">210615.54154999999</SimpleData>
+		<SimpleData name="len">2401.90804899000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.830839129023886,35.868914604941516 -78.831240511310057,35.869041533167547 -78.831409564485725,35.869094980640675 -78.831398901753559,35.869562680225016 -78.831251174837462,35.869592008537637 -78.831215155556094,35.869869427947577 -78.831395366911906,35.86983327654189 -78.832605284647229,35.869882003042527 -78.832394253271175,35.870131902543136 -78.831791145849834,35.870627769557373 -78.831372319584446,35.87076867300437 -78.831236808896918,35.87081417182889 -78.83105228857373,35.870876085938313 -78.830806280892403,35.870900799554555 -78.830546330346394,35.870926866913209 -78.830839129023886,35.868914604941516</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">158021</SimpleData>
+		<SimpleData name="PIN">0757-03-01-2474</SimpleData>
+		<SimpleData name="POLY_ACRE">4.82500000</SimpleData>
+		<SimpleData name="SUM_ACRE">4.82500000</SimpleData>
+		<SimpleData name="OLD_ID">586 -01-006B-</SimpleData>
+		<SimpleData name="ACCT_">8079903</SimpleData>
+		<SimpleData name="OWNAM1">RICHARD R JONES FAMILY LLC THE</SimpleData>
+		<SimpleData name="OWADR1">3600 W MILL FOREST CT</SimpleData>
+		<SimpleData name="OWCITY">RALEIGH</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27606</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">350</SimpleData>
+		<SimpleData name="LANDUSE_DE">VACANT INDUSTRIAL</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">542812</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">542812.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">002631</SimpleData>
+		<SimpleData name="DEED_PAGE">000410</SimpleData>
+		<SimpleData name="PLAT_BOOK">000144</SimpleData>
+		<SimpleData name="PLAT_PAGE">000152</SimpleData>
+		<SimpleData name="DATE_SOLD">19991020</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">RICHARD R JONES FAMILY LLC THE</SimpleData>
+		<SimpleData name="OWNER_ADDR">3600 W MILL FOREST CT</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">710 SLATER RD</SimpleData>
+		<SimpleData name="area">210171.54420000000</SimpleData>
+		<SimpleData name="len">2066.54919716000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.829639531983133,35.870797720607953 -78.829946010978063,35.868694601683821 -78.830637131314063,35.868862814206054 -78.830805399560589,35.868903898935997 -78.830839129023886,35.868914604941516 -78.830546330346394,35.870926866913209 -78.830150057561553,35.870966507517437 -78.829819510999855,35.870857174446932 -78.829639531983133,35.870797720607953</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">157993</SimpleData>
+		<SimpleData name="PIN">0747-04-91-7486</SimpleData>
+		<SimpleData name="POLY_ACRE">1.64400000</SimpleData>
+		<SimpleData name="SUM_ACRE">1.64300000</SimpleData>
+		<SimpleData name="OLD_ID">585 -03-022B-</SimpleData>
+		<SimpleData name="ACCT_">5762720</SimpleData>
+		<SimpleData name="OWNAM1">RANSDELL RUBY D</SimpleData>
+		<SimpleData name="OWADR1">303 BROAD ST</SimpleData>
+		<SimpleData name="OWCITY">FUQUAY-VARINA</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27526</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">99020</SimpleData>
+		<SimpleData name="LANDUSE_DE">PRESENT-USE/FORESTRY</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">184837</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">184837.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">000393</SimpleData>
+		<SimpleData name="DEED_PAGE">000657</SimpleData>
+		<SimpleData name="PLAT_BOOK">000000</SimpleData>
+		<SimpleData name="PLAT_PAGE">000000</SimpleData>
+		<SimpleData name="DATE_SOLD">19970101</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">RANSDELL RUBY D</SimpleData>
+		<SimpleData name="OWNER_ADDR">303 BROAD ST</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">740 SLATER RD</SimpleData>
+		<SimpleData name="area">71647.00970000000</SimpleData>
+		<SimpleData name="len">1257.36256049000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.831395366911906,35.86983327654189 -78.831484442716047,35.869815377885438 -78.831487943162784,35.869544946350395 -78.831398901753559,35.869562680225016 -78.831409564485725,35.869094980640675 -78.832823961105248,35.869623212641969 -78.832605284647229,35.869882003042527 -78.831395366911906,35.86983327654189</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">158019</SimpleData>
+		<SimpleData name="PIN">0757-03-01-5680</SimpleData>
+		<SimpleData name="POLY_ACRE">4.83100000</SimpleData>
+		<SimpleData name="SUM_ACRE">4.83100000</SimpleData>
+		<SimpleData name="OLD_ID">586 -01-006 -</SimpleData>
+		<SimpleData name="ACCT_">8079903</SimpleData>
+		<SimpleData name="OWNAM1">RICHARD R JONES FAMILY LLC THE</SimpleData>
+		<SimpleData name="OWADR1">3600 W MILL FOREST CT</SimpleData>
+		<SimpleData name="OWCITY">RALEIGH</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27606</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">350</SimpleData>
+		<SimpleData name="LANDUSE_DE">VACANT INDUSTRIAL</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">543487</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">543487.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">002631</SimpleData>
+		<SimpleData name="DEED_PAGE">000410</SimpleData>
+		<SimpleData name="PLAT_BOOK">000144</SimpleData>
+		<SimpleData name="PLAT_PAGE">000152</SimpleData>
+		<SimpleData name="DATE_SOLD">19991020</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">RICHARD R JONES FAMILY LLC THE</SimpleData>
+		<SimpleData name="OWNER_ADDR">3600 W MILL FOREST CT</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">702 SLATER RD</SimpleData>
+		<SimpleData name="area">210459.42499999999</SimpleData>
+		<SimpleData name="len">2156.37613540000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.828646053410964,35.870130457749219 -78.828783992151457,35.870133893189639 -78.828852921092434,35.869668693238992 -78.829033079429678,35.868445580900051 -78.829037328525715,35.868447290133872 -78.829042824919412,35.868449715393581 -78.829045758808249,35.868450900811418 -78.829048726390653,35.868452113748624 -78.829051288605314,35.868453490950863 -78.829054188684708,35.868454703793311 -78.829057190018958,35.86845591677762 -78.829060090156631,35.868457102147794 -78.829063023987885,35.868458315037337 -78.829068520383117,35.868460740295866 -78.829071488024326,35.868461925760386 -78.829074421855907,35.868463138649652 -78.829077389787869,35.868464186753343 -78.829080323677729,35.86846537217032 -78.829083291261185,35.868466585106695 -78.829088753905992,35.868469010317 -78.829091721954555,35.86847000347607 -78.829094655728639,35.868471243836979 -78.829097623312506,35.868472456772999 -78.829100557551612,35.86847347735668 -78.829103525135665,35.868474690292544 -78.829106459374913,35.868475710876091 -78.829109426959121,35.868476923811812 -78.829112360791825,35.868478136700162 -78.829115328782933,35.868479157330775 -78.829118262964386,35.868480205386184 -78.829123759769459,35.868482438337274 -78.829126693602575,35.868483651225269 -78.829129661594052,35.868484671855533 -78.829132595775903,35.868485719910588 -78.829135563767537,35.86848674054071 -78.829138497600994,35.868487953428428 -78.82914146553469,35.868489001530563 -78.829144399774947,35.868490022113193 -78.829147367708785,35.868491070215171 -78.829150301949198,35.868492090797659 -78.829153269883193,35.868493138899503 -78.829156203775241,35.868494324314639 -78.829159576728685,35.868495372983681 -78.829162544721001,35.868496393613135 -78.829165478903718,35.868497441667401 -78.829168447244683,35.868498297463915 -78.829171381485622,35.868499318045906 -78.829174349420157,35.868500366147209 -78.829177283603173,35.868501414201184 -78.829180251595929,35.868502434830233 -78.829183185779087,35.868503482884044 -78.829186154120464,35.86850433868014 -78.829189088303778,35.868505386733815 -78.829192056296833,35.868506407362553 -78.829195429657773,35.868507263725661 -78.8291983638413,35.868508311779124 -78.829201331834582,35.868509332407633 -78.829204266482833,35.868510160683876 -78.829207234360126,35.868511236256531 -78.829210168950425,35.868512092004771 -78.82921313688594,35.868513140105144 -78.829216510247377,35.868513996467634 -78.829219444547547,35.868514989576319 -78.829222412773618,35.868515900315785 -78.829225347364243,35.868516756063634 -78.829228315358179,35.868517776691512 -78.829231688661906,35.86851866052573 -78.829234623252745,35.868519516273381 -78.829237591595259,35.868520372068204 -78.829240525779809,35.868521420120636 -78.829243494122451,35.868522275915311 -78.829246867484585,35.868523132276977 -78.829249802075751,35.868523988024272 -78.829252770360526,35.868524871290852 -78.829255704951805,35.868525727037998 -78.829258673294774,35.868526582832295 -78.829262046657249,35.868527439193549 -78.829264981190676,35.868528322412601 -78.829267949533829,35.868529178206678 -78.829271322896517,35.868530034567669 -78.82927425748818,35.868530890314339 -78.829277225773481,35.868531773580351 -78.829280160713552,35.868532464494081 -78.829283534076495,35.868533320854716 -78.829286536171651,35.868534176695597 -78.829289471111878,35.868534867609107 -78.829292810723402,35.868535723922271 -78.829295779009087,35.868536607187799 -78.82929871394947,35.868537298101074 -78.82930168229332,35.868538153894335 -78.829305056004969,35.86853884542159 -78.8293079905973,35.86853970116745 -78.829310959289529,35.868540392127692 -78.829314332653141,35.868541248487475 -78.829317267535828,35.868541966872456 -78.829320235880047,35.868542822665276 -78.829946010978063,35.868694601683821 -78.829639531983133,35.870797720607953 -78.829586779931546,35.870780119652686 -78.828968400429844,35.87052357034063 -78.828568320441221,35.870178754529448 -78.828558301828792,35.870128274014924 -78.828646053410964,35.870130457749219</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">157853</SimpleData>
+		<SimpleData name="PIN">0747-03-10-9852</SimpleData>
+		<SimpleData name="POLY_ACRE">7.95700000</SimpleData>
+		<SimpleData name="SUM_ACRE">7.95700000</SimpleData>
+		<SimpleData name="ACCT_">8162505</SimpleData>
+		<SimpleData name="OWNAM1">OBRIANT R LEON</SimpleData>
+		<SimpleData name="OWNAM2">THOMAS ALENE ET AL</SimpleData>
+		<SimpleData name="OWADR1">1615 EFLAND-CEDAR GROVE RD</SimpleData>
+		<SimpleData name="OWCITY">EFLAND</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27243</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">350</SimpleData>
+		<SimpleData name="LANDUSE_DE">VACANT INDUSTRIAL</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IZ</SimpleData>
+		<SimpleData name="LAND_VALUE">296775</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">296775.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">1991-E</SimpleData>
+		<SimpleData name="DEED_PAGE">000089</SimpleData>
+		<SimpleData name="PLAT_BOOK">000151</SimpleData>
+		<SimpleData name="PLAT_PAGE">000169</SimpleData>
+		<SimpleData name="DATE_SOLD">20010129</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">OBRIANT R LEON THOMAS ALENE ET AL</SimpleData>
+		<SimpleData name="OWNER_ADDR">1615 EFLAND-CEDAR GROVE RD</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IZ</SimpleData>
+		<SimpleData name="SITE_ADDRE">729 S DISTRIBUTION DR</SimpleData>
+		<SimpleData name="area">346606.71980000002</SimpleData>
+		<SimpleData name="len">2787.49853726000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES CU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.859463708748478,35.868301120713078 -78.859294952328739,35.868300184387159 -78.859294209794811,35.868300183530508 -78.856704135664884,35.868286398756439 -78.856617226096446,35.868285939473566 -78.856610485736383,35.867976017573973 -78.856606303687016,35.867784064324731 -78.85660043784705,35.86751392316333 -78.856600405509738,35.867513126431092 -78.856684071109456,35.867515285192312 -78.856684106907181,35.8675141314014 -78.856688537826429,35.867375566758952 -78.860130098402493,35.86742494639865 -78.860168742596557,35.86742551268398 -78.860202019205516,35.867797387213002 -78.860204237910509,35.867822032328043 -78.860248010563353,35.868311582276782 -78.860243353087426,35.868311439578754 -78.859463708748478,35.868301120713078</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">157853</SimpleData>
+		<SimpleData name="PIN">0747-03-10-9852</SimpleData>
+		<SimpleData name="POLY_ACRE">7.95700000</SimpleData>
+		<SimpleData name="SUM_ACRE">7.95700000</SimpleData>
+		<SimpleData name="ACCT_">8162505</SimpleData>
+		<SimpleData name="OWNAM1">OBRIANT R LEON</SimpleData>
+		<SimpleData name="OWNAM2">THOMAS ALENE ET AL</SimpleData>
+		<SimpleData name="OWADR1">1615 EFLAND-CEDAR GROVE RD</SimpleData>
+		<SimpleData name="OWCITY">EFLAND</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27243</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">350</SimpleData>
+		<SimpleData name="LANDUSE_DE">VACANT INDUSTRIAL</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IZ</SimpleData>
+		<SimpleData name="LAND_VALUE">296775</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">296775.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">1991-E</SimpleData>
+		<SimpleData name="DEED_PAGE">000089</SimpleData>
+		<SimpleData name="PLAT_BOOK">000151</SimpleData>
+		<SimpleData name="PLAT_PAGE">000169</SimpleData>
+		<SimpleData name="DATE_SOLD">20010129</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">OBRIANT R LEON THOMAS ALENE ET AL</SimpleData>
+		<SimpleData name="OWNER_ADDR">1615 EFLAND-CEDAR GROVE RD</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IZ</SimpleData>
+		<SimpleData name="SITE_ADDRE">729 S DISTRIBUTION DR</SimpleData>
+		<SimpleData name="area">346606.71980000002</SimpleData>
+		<SimpleData name="len">2787.49853726000</SimpleData>
+		<SimpleData name="FUTURE_LAN">MEDIUM DENSITY RES CU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.859463708748478,35.868301120713078 -78.859294952328739,35.868300184387159 -78.859294209794811,35.868300183530508 -78.856704135664884,35.868286398756439 -78.856617226096446,35.868285939473566 -78.856610485736383,35.867976017573973 -78.856606303687016,35.867784064324731 -78.85660043784705,35.86751392316333 -78.856600405509738,35.867513126431092 -78.856684071109456,35.867515285192312 -78.856684106907181,35.8675141314014 -78.856688537826429,35.867375566758952 -78.860130098402493,35.86742494639865 -78.860168742596557,35.86742551268398 -78.860202019205516,35.867797387213002 -78.860204237910509,35.867822032328043 -78.860248010563353,35.868311582276782 -78.860243353087426,35.868311439578754 -78.859463708748478,35.868301120713078</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UDO_Durham_Parcels_Mville">
+		<SimpleData name="PARCEL_ID">158030</SimpleData>
+		<SimpleData name="PIN">0747-03-90-7642</SimpleData>
+		<SimpleData name="FRONT_DIM">0</SimpleData>
+		<SimpleData name="POLY_ACRE">5.55000000</SimpleData>
+		<SimpleData name="SUM_ACRE">5.55000000</SimpleData>
+		<SimpleData name="OLD_ID">586 -01-014 -</SimpleData>
+		<SimpleData name="ACCT_">8345949</SimpleData>
+		<SimpleData name="OWNAM1">DUKE REALTY LIMITED</SimpleData>
+		<SimpleData name="OWNAM2">PARTNERSHIP</SimpleData>
+		<SimpleData name="OWADR1">DUKE REALTY CORPORATION</SimpleData>
+		<SimpleData name="OWADR2">1800 PERIMETER PARK DR</SimpleData>
+		<SimpleData name="OWCITY">MORRISVILLE</SimpleData>
+		<SimpleData name="OWSTA">NC</SimpleData>
+		<SimpleData name="OWZIPA">27560</SimpleData>
+		<SimpleData name="DIST_CODE">14</SimpleData>
+		<SimpleData name="LAND_USE">350</SimpleData>
+		<SimpleData name="LANDUSE_DE">VACANT INDUSTRIAL</SimpleData>
+		<SimpleData name="NBR_CLASS">030</SimpleData>
+		<SimpleData name="NBR_CODE">IA</SimpleData>
+		<SimpleData name="LAND_VALUE">346875</SimpleData>
+		<SimpleData name="BLDG_VALUE">0.00000000</SimpleData>
+		<SimpleData name="TOTAL_VALU">346875.00000000</SimpleData>
+		<SimpleData name="DEED_BOOK">005518</SimpleData>
+		<SimpleData name="DEED_PAGE">000761</SimpleData>
+		<SimpleData name="PLAT_BOOK">000000</SimpleData>
+		<SimpleData name="PLAT_PAGE">000000</SimpleData>
+		<SimpleData name="DATE_SOLD">20070223</SimpleData>
+		<SimpleData name="SALE_PRICE">0</SimpleData>
+		<SimpleData name="SUBD_ID">0000</SimpleData>
+		<SimpleData name="SUBD_DESC">N/A - NO SUBDIVISION</SimpleData>
+		<SimpleData name="OWNER_NAME">DUKE REALTY LIMITED PARTNERSHIP</SimpleData>
+		<SimpleData name="OWNER_ADDR">DUKE REALTY CORPORATION 1800 PERIMETER PARK DR</SimpleData>
+		<SimpleData name="CLASS_CODE">030 IA</SimpleData>
+		<SimpleData name="SITE_ADDRE">763 SLATER RD</SimpleData>
+		<SimpleData name="area">241775.06010000000</SimpleData>
+		<SimpleData name="len">2954.16000906000</SimpleData>
+		<SimpleData name="FUTURE_LAN">HIGH DENSITY RES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.830329564399449,35.8674578695218 -78.829779228446782,35.867436003979527 -78.829968182483213,35.866980036264138 -78.831244777275515,35.866998979526905 -78.831701651468322,35.867005792104329 -78.832725121378047,35.867021101109323 -78.833446528715896,35.867031868550974 -78.834186937046155,35.867043152060113 -78.834222540157768,35.867621023771513 -78.831466044292313,35.867503043725833 -78.831243743021034,35.867494192466005 -78.830937070442502,35.867482064566595 -78.830532055257422,35.86746587075568 -78.830329564399449,35.8674578695218</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="UDO_Durham_Parcels_Mville" id="UDO_Durham_Parcels_Mville">
+	<SimpleField name="PARCEL_ID" type="string"></SimpleField>
+	<SimpleField name="PIN" type="string"></SimpleField>
+	<SimpleField name="FRONT_DIM" type="string"></SimpleField>
+	<SimpleField name="POLY_ACRE" type="float"></SimpleField>
+	<SimpleField name="SUM_ACRE" type="float"></SimpleField>
+	<SimpleField name="OLD_ID" type="string"></SimpleField>
+	<SimpleField name="USERINT" type="string"></SimpleField>
+	<SimpleField name="CITY_CODE" type="string"></SimpleField>
+	<SimpleField name="ACCT_" type="string"></SimpleField>
+	<SimpleField name="OWNAM1" type="string"></SimpleField>
+	<SimpleField name="OWNAM2" type="string"></SimpleField>
+	<SimpleField name="OWNAM3" type="string"></SimpleField>
+	<SimpleField name="OWADR1" type="string"></SimpleField>
+	<SimpleField name="OWADR2" type="string"></SimpleField>
+	<SimpleField name="OWADR3" type="string"></SimpleField>
+	<SimpleField name="OWADR4" type="string"></SimpleField>
+	<SimpleField name="OWCITY" type="string"></SimpleField>
+	<SimpleField name="OWSTA" type="string"></SimpleField>
+	<SimpleField name="OWZIPA" type="string"></SimpleField>
+	<SimpleField name="DIST_CODE" type="int"></SimpleField>
+	<SimpleField name="SPLITTAXDI" type="string"></SimpleField>
+	<SimpleField name="SPLITTAXDE" type="string"></SimpleField>
+	<SimpleField name="LAND_USE" type="string"></SimpleField>
+	<SimpleField name="LANDUSE_DE" type="string"></SimpleField>
+	<SimpleField name="NBR_CLASS" type="string"></SimpleField>
+	<SimpleField name="NBR_CODE" type="string"></SimpleField>
+	<SimpleField name="EXEMPT_COD" type="string"></SimpleField>
+	<SimpleField name="LAND_VALUE" type="int"></SimpleField>
+	<SimpleField name="BLDG_VALUE" type="float"></SimpleField>
+	<SimpleField name="TOTAL_VALU" type="float"></SimpleField>
+	<SimpleField name="DEED_BOOK" type="string"></SimpleField>
+	<SimpleField name="DEED_PAGE" type="string"></SimpleField>
+	<SimpleField name="PLAT_BOOK" type="string"></SimpleField>
+	<SimpleField name="PLAT_PAGE" type="string"></SimpleField>
+	<SimpleField name="DATE_SOLD" type="int"></SimpleField>
+	<SimpleField name="SALE_PRICE" type="int"></SimpleField>
+	<SimpleField name="SUBD_ID" type="string"></SimpleField>
+	<SimpleField name="SUBD_DESC" type="string"></SimpleField>
+	<SimpleField name="OWNER_NAME" type="string"></SimpleField>
+	<SimpleField name="OWNER_ADDR" type="string"></SimpleField>
+	<SimpleField name="CLASS_CODE" type="string"></SimpleField>
+	<SimpleField name="SITE_ADDRE" type="string"></SimpleField>
+	<SimpleField name="area" type="float"></SimpleField>
+	<SimpleField name="len" type="float"></SimpleField>
+	<SimpleField name="FUTURE_LAN" type="string"></SimpleField>
+	<SimpleField name="DEV_STATUS" type="string"></SimpleField>
+</Schema>
+</Document></kml>
